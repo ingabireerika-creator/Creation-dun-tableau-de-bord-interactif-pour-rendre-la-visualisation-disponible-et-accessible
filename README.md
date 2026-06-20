@@ -1,5 +1,7 @@
 # Etude sur l'eau potable — Dashboard Power BI
 
+![Aperçu du projet](P10.png)
+
 **Erika INGABIRE — Data Analyst | Janvier 2026**
 
 ---
